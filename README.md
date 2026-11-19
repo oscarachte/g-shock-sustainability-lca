@@ -1,7 +1,7 @@
 # G-Shock Sustainability & Life Cycle Assessment
 
 **EPFL · BSc Mechanical Engineering (BA4) · Sustainable Products and Supply Chains (ME-203) · 3 ECTS ·**
-**Academic group project · Team of four**
+**Academic group project · Team of five**
 
 **Life Cycle Assessment · Sustainable Product Design · Circular Economy · Environmental Impact Modelling**
 
